@@ -5,7 +5,7 @@ by Akshay Pastagiya
 ## Setup
 
 1. Sign up for a free GitHub account.
-2. Go to repository pagr in your browser
+2. Go to repository page in your browser
 3. Click the Green code button.
 4. Click the Codespace tab.
 5. Click Create New Codespace on main.
