@@ -17,3 +17,5 @@ by Akshay Pastagiya
 - GitHub
 - Codespace
 - Jupyter
+- Matplot
+- Numpy
