@@ -17,15 +17,9 @@ by Akshay Pastagiya
 - GitHub
 - Codespace
 - Jupyter
-<<<<<<< HEAD
-- Matplot
-- Numpy
-=======
 
 ## Library
-
 - sklearn
 - pandas
 - NumPy
 - Metplotlib
->>>>>>> e24a0b7 (update task numpy and readme)
