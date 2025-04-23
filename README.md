@@ -23,3 +23,6 @@ by Akshay Pastagiya
 - pandas
 - NumPy
 - Metplotlib
+
+## Install Library
+- To install necessary library use pip install command
