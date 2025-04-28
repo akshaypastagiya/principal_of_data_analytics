@@ -23,6 +23,7 @@ by Akshay Pastagiya
 - pandas
 - NumPy
 - Metplotlib
+- seaborn
 
 ## Install Library
 - To install necessary library use pip install command
